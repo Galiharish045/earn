@@ -1,0 +1,37 @@
+name: earn
+discription : this is earn custome theme
+type: theme 
+base theme: bartik
+core_version_requirement: ^8 || ^9
+version: version
+packages: other
+
+libraries:
+    - earn/global-css-and-js
+
+    
+
+regions:
+  header: Header
+  title: Title
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  press_logo : 'Press logo'
+  page_bottom: 'Page bottom'
+  highlighted: Highlighted
+  featured_top: 'Featured top'
+  breadcrumb: Breadcrumb
+  content: Content
+  slider_first: 'Slider first'
+  slider_second: 'Slider second'
+  slider_third: 'Slider third'
+  featured_bottom_first: 'Featured bottom first'
+  featured_bottom_second: 'Featured bottom second'
+  featured_bottom_third: 'Featured bottom third'
+  footer_first: 'Footer first'
+  footer_second: 'Footer second'
+  footer_third: 'Footer third'
+  footer_fourth: 'Footer fourth'
+  footer_fifth: 'Footer fifth'
+  footer : Footer
